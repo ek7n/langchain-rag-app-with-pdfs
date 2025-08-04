@@ -10,6 +10,7 @@ python-dotenv
 beautifulsoup4
 faiss-cpu
 pypdf
+pymupdf
 unstructured
 networkx
 openpyxl
