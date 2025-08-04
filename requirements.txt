@@ -14,3 +14,4 @@ unstructured
 networkx
 openpyxl
 rapidocr-onnxruntime
+sentence-transformers
